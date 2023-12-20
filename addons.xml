@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="script.screensaver.logoff" name="Logoff" version="1.1.1" provider-name="ucool38">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.ui.screensaver" library="addon.py">
+	<provides></provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+	<language></language>
+	<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+	<forum></forum>
+	<website>www.agametv.com</website>
+	<email>ucool38@gmail.com</email>
+	<source></source>
+    <summary>Custom Screensaver by ucool38@gmail.com</summary>
+    <description>Media Player ender</description>
+  </extension>
+</addon>
+</addons>
